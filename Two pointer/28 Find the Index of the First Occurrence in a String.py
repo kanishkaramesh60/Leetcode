@@ -29,3 +29,4 @@ class Solution:
                 i=i-j+1
                 j=0
         return -1
+        
